@@ -8,7 +8,7 @@ git pull: Este comando se usa para actualizar el repositorio local con los cambi
 
 git checkout: Este comando se usa para navegar entre las ramas
 
-git log: ste comando se usa para ver el historial de confirmaciones del repositorio
+git log: Este comando se usa para ver el historial de confirmaciones del repositorio
 
 git branch: Este comando se usa para listar, crear o eliminar ramas en el repositorio
 
